@@ -2,7 +2,7 @@
 
 A list of highly useful FREE websites and online tools to make our work faster, better and more convenient.
 
-> Feel free to contribute!
+> Feel free to [contribute](#how-to-contribute) to this repo!
 
 # Table of Contents
 
@@ -33,7 +33,7 @@ A list of highly useful FREE websites and online tools to make our work faster, 
 
 **4. Review** 
 
-- Your pull request will be reviewed and merged with the master branch!**
+- Your pull request will be reviewed and merged with the master branch!
 
 Congratulations! You are now a contributor. :raised_hands:
 
