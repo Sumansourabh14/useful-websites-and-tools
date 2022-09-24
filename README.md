@@ -14,6 +14,7 @@ A list of highly useful FREE websites and online tools to make our work faster, 
   - [Free Images](#free-images)
   - [Frontend Web Development](#frontend-web-development)
   - [Image Editor](#image-editor)
+  - [To-Do List / Project Management](#to-do-list--project-management)
   - [Video Editing](#video-editing)
   - [Virtual Whiteboard](#virtual-whiteboard)
 
@@ -121,9 +122,11 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 |:---|:---|
 | [Excalidraw](https://excalidraw.com/) | Virtual whiteboard for sketching hand-drawn like diagrams. Collaborative and end-to-end encrypted. |
 
+---
+
 **[Back to top](#table-of-contents)**
 
-Thanks for visiting this repository!
+Thanks for visiting!
 
 *If you find this helpul, don't forget to :star: this repository.*
 
