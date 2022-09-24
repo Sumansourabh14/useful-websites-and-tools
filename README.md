@@ -7,6 +7,7 @@ A list of highly useful FREE websites and online tools to make our work faster, 
 # Table of Contents
 
   - [Converters](#converters)
+  - [Documents](#documents)
   - [Design](#design)
   - [Free Images](#free-images)
   - [Frontend Web Development](#frontend-web-development)
@@ -14,12 +15,38 @@ A list of highly useful FREE websites and online tools to make our work faster, 
   - [Video Editing](#video-editing)
   - [Virtual Whiteboard](#virtual-whiteboard)
 
+# How to Contribute?
+
+**1. Fork this repository**
+
+- Click on the <code>Fork</code> button to create a copy of this repository.
+
+**2. Make changes in the README.md file**
+
+- Edit the README.md file to add the name of the tool/website, link and a one-line description.
+
+> :exclamation: Important: 
+> 
+> Make sure to add the name of websites/tools in an alphabetical order inside the table.
+
+**3. Raise a pull request.**
+
+**4. Review** 
+
+- Your pull request will be reviewed and merged with the master branch!**
+
+Congratulations! You are now a contributor. :raised_hands:
+
+# List of Websites and Tools
+
 ## Converters
 
 | Name/Link | Description |
 |:---|:---|
 | [CloudConvert](https://cloudconvert.com/) | An online file converter. Audio, video, document, ebook, archive, image, spreadsheet, etc are supported |
+| [SmallPDF](https://smallpdf.com/) | All the tools you’ll need to be more productive and work smarter with documents |
 | [WEBP to PNG](https://cloudconvert.com/webp-to-png) | Convert images in Webp format to PNG and vice versa |
+| [Word to PDF](https://smallpdf.com/word-to-pdf) | Free and simple online PDF converter to create PDFs from Word documents. No file size limits, no watermarks |
 
 ## Design
 
@@ -28,6 +55,12 @@ A list of highly useful FREE websites and online tools to make our work faster, 
 | [Canva](https://www.canva.com/) | Create social media posts, presentations, posters, videos, logos and more. |
 | [Figma](https://www.figma.com/) | Design, prototype, and gather feedback all in one place with Figma. |
 | [Penpot](https://penpot.app/) | Penpot makes design and prototyping accessible to every team in the world. |
+
+## Documents
+
+| Name/Link | Description |
+|:---|:---|
+| [eSign PDF](https://smallpdf.com/sign-pdf) | Sign documents online with electronic signature. No registration needed |
 
 ## Free Images
 
@@ -68,3 +101,4 @@ A list of highly useful FREE websites and online tools to make our work faster, 
 | Name/Link | Description |
 |:---|:---|
 | [Excalidraw](https://excalidraw.com/) | Virtual whiteboard for sketching hand-drawn like diagrams. Collaborative and end-to-end encrypted. |
+
