@@ -1,3 +1,5 @@
+<img src="./assets/useful-websites-and-tools-banner.png">
+
 # Useful Websites and Online Tools
 
 A list of highly useful FREE websites and online tools to make our work faster, better and more convenient.
