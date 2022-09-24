@@ -87,6 +87,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 
 | Name/Link | Description |
 |:---|:---|
+| [Animista](https://animista.net/) | Generate code for CSS animations |
 | [Image Extractor](https://extract.pics/) | Extract images from any public website by using a virtual browser |
 | [Haikei](https://haikei.app/) | Generate unique SVG design assets |
 | [Online Gradient Generator](https://angrytools.com/gradient/) | Create gradient code in RGBA, HEX, Canvas, SVG, SwiftUI, etc. and use the generated CSS code |
@@ -98,6 +99,14 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 | [Angry Web Tools](https://angrytools.com/) | Online Gradient Generator, Image Crop, Color Picker, Blob Generator, etc. |
 | [Images Platform](https://www.imagesplatform.com/post/online-tool-to-resize-any-image-to-1280-x-720-resolution-rxJmd) | Online Tool To Resize Any Image To 1280 X 720 Resolution |
 | [Remove Image Background](https://www.remove.bg/) | Remove backgrounds 100% automatically in 5 seconds with one click |
+
+## To-Do List / Project Management
+
+| Name/Link | Description |
+|:---|:---|
+| [Asana](https://asana.com/) | Keep remote and distributed teams, and your entire organization, focused on their goals, projects |
+| [Notion](https://www.notion.so/) | Notion is a single space where you can think, write, and plan |
+| [Taskade](https://www.taskade.com/) | Taskade is the ultimate to-do list app for managing tasks, writing notes, and collaborating with others |
 
 ## Video Editing
 
