@@ -112,8 +112,8 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 
 | Name/Link | Description |
 |:---|:---|
-| [VEED](https://www.veed.io/) | Create videos with a single click. Add subtitles, transcribe audio and more |
 | [Kamua](https://kamua.com/) | Resize video, cut video, caption video. All inside a browser. |
+| [VEED](https://www.veed.io/) | Create videos with a single click. Add subtitles, transcribe audio and more |
 
 ## Virtual Whiteboard
 
