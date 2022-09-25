@@ -9,13 +9,14 @@ A list of highly useful FREE websites and online tools to make our work faster, 
 # :link: Table of Contents
 
   - [Converters](#converters)
-  - [Documents](#documents)
+  - [Documents](#pagefacingup-documents)
   - [Design](#design)
   - [Free Images](#free-images)
-  - [Frontend Web Development](#frontend-web-development)
-  - [Image Editor](#image-editor)
+  - [Frontend Web Development](#computer-frontend-web-development)
+  - [Image Editor](#scissors-image-editor)
+  - [Text Generator](#text-generator)
   - [To-Do List / Project Management](#to-do-list--project-management)
-  - [Video Editing](#video-editing)
+  - [Video Editing](#videocamera-video-editing)
   - [Virtual Whiteboard](#virtual-whiteboard)
 
 # :question: How to Contribute?
@@ -48,7 +49,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 
 ---
 
-# List of Websites and Tools
+# :clipboard: List of Websites and Tools
 
 ## Converters
 
@@ -69,7 +70,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 | [Figma](https://www.figma.com/) | Design, prototype, and gather feedback all in one place with Figma |
 | [Penpot](https://penpot.app/) | Penpot makes design and prototyping accessible to every team in the world |
 
-## Documents
+## :page_facing_up: Documents
 
 | Name/Link | Description |
 |:---|:---|
@@ -100,10 +101,16 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 
 | Name/Link | Description |
 |:---|:---|
-| [Angry Web Tools](https://angrytools.com/) | Online Gradient Generator, Image Crop, Color Picker, Blob Generator, etc. |
+| [Angry Web Tools](https://angrytools.com/) | Online Gradient Generator, Image Crop, Color Picker, Blob Generator, etc |
 | [Images Platform](https://www.imagesplatform.com/post/online-tool-to-resize-any-image-to-1280-x-720-resolution-rxJmd) | Online Tool To Resize Any Image To 1280 X 720 Resolution |
 | [Remove Image Background](https://www.remove.bg/) | Remove backgrounds 100% automatically in 5 seconds with one click |
 | [TinyPNG](https://tinypng.com/) | Compression techniques to reduce the file size of your WEBP, JPEG and PNG files |
+
+## Text Generator
+
+| Name/Link | Description |
+|:---|:---|
+| [Free lorem ipsum generator](https://www.freeformatter.com/lorem-ipsum-generator.html) | This free lorem ipsum generator lets you choose how many sentences, paragraphs or list items you want |
 
 ## To-Do List / Project Management
 
