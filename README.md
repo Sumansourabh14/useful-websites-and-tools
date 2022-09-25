@@ -63,9 +63,11 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 
 | Name/Link | Description |
 |:---|:---|
-| [Canva](https://www.canva.com/) | Create social media posts, presentations, posters, videos, logos and more. |
-| [Figma](https://www.figma.com/) | Design, prototype, and gather feedback all in one place with Figma. |
-| [Penpot](https://penpot.app/) | Penpot makes design and prototyping accessible to every team in the world. |
+| [Canva](https://www.canva.com/) | Create social media posts, presentations, posters, videos, logos and more |
+| [Color Hunt](https://colorhunt.co/) | Discover the newest hand-picked color palettes. Get color inspiration for your design and art projects |
+| [Coolors](https://coolors.co/) | Create the perfect palette or get inspired by thousands of beautiful color schemes |
+| [Figma](https://www.figma.com/) | Design, prototype, and gather feedback all in one place with Figma |
+| [Penpot](https://penpot.app/) | Penpot makes design and prototyping accessible to every team in the world |
 
 ## Documents
 
@@ -100,6 +102,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 | [Angry Web Tools](https://angrytools.com/) | Online Gradient Generator, Image Crop, Color Picker, Blob Generator, etc. |
 | [Images Platform](https://www.imagesplatform.com/post/online-tool-to-resize-any-image-to-1280-x-720-resolution-rxJmd) | Online Tool To Resize Any Image To 1280 X 720 Resolution |
 | [Remove Image Background](https://www.remove.bg/) | Remove backgrounds 100% automatically in 5 seconds with one click |
+| [TinyPNG](https://tinypng.com/) | Compression techniques to reduce the file size of your WEBP, JPEG and PNG files |
 
 ## To-Do List / Project Management
 
