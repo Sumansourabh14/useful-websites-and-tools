@@ -120,7 +120,8 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 
 | Name/Link | Description |
 |:---|:---|
-| [Excalidraw](https://excalidraw.com/) | Virtual whiteboard for sketching hand-drawn like diagrams. Collaborative and end-to-end encrypted. |
+| [Excalidraw](https://excalidraw.com/) | Virtual whiteboard for sketching hand-drawn like diagrams. Collaborative and end-to-end encrypted |
+| [Web Whiteboard](https://webwhiteboard.com/) | Brainstorm, share ideas, manage projects with instant collaboration |
 
 ---
 
@@ -129,4 +130,3 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 Thanks for visiting!
 
 *If you find this helpul, don't forget to :star: this repository.*
-
