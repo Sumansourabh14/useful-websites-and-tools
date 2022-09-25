@@ -6,7 +6,7 @@ A list of highly useful FREE websites and online tools to make our work faster, 
 
 > Feel free to [contribute](#how-to-contribute) to this repo!
 
-# Table of Contents
+# :link: Table of Contents
 
   - [Converters](#converters)
   - [Documents](#documents)
@@ -18,7 +18,7 @@ A list of highly useful FREE websites and online tools to make our work faster, 
   - [Video Editing](#video-editing)
   - [Virtual Whiteboard](#virtual-whiteboard)
 
-# How to Contribute?
+# :question: How to Contribute?
 
 **1. Fork this repository**
 
@@ -86,7 +86,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 | [Shutterstock](https://www.shutterstock.com/) | Best royalty free images from Shutterstock, including photos, vectors, and illustrations |
 | [Unsplash](https://unsplash.com/) | Beautiful, free images and photos that you can download and use for any project |
 
-## Frontend Web Development
+## :computer: Frontend Web Development
 
 | Name/Link | Description |
 |:---|:---|
@@ -96,7 +96,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 | [Image Extractor](https://extract.pics/) | Extract images from any public website by using a virtual browser |
 | [Online Gradient Generator](https://angrytools.com/gradient/) | Create gradient code in RGBA, HEX, Canvas, SVG, SwiftUI, etc. and use the generated CSS code |
 
-## Image Editor
+## :scissors: Image Editor
 
 | Name/Link | Description |
 |:---|:---|
@@ -113,7 +113,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 | [Notion](https://www.notion.so/) | Notion is a single space where you can think, write, and plan |
 | [Taskade](https://www.taskade.com/) | Taskade is the ultimate to-do list app for managing tasks, writing notes, and collaborating with others |
 
-## Video Editing
+## :video_camera: Video Editing
 
 | Name/Link | Description |
 |:---|:---|
@@ -129,7 +129,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 
 ---
 
-**[Back to top](#table-of-contents)**
+:arrow_up: **[Back to top](#table-of-contents)**
 
 Thanks for visiting!
 
