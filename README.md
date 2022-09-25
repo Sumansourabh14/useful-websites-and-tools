@@ -4,7 +4,7 @@
 
 A list of highly useful FREE websites and online tools to make our work faster, better and more convenient.
 
-> Feel free to [contribute](#how-to-contribute) to this repo!
+> Feel free to [contribute](#question-how-to-contribute) to this repo!
 
 # :link: Table of Contents
 
