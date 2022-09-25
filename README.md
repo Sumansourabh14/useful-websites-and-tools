@@ -91,6 +91,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 | Name/Link | Description |
 |:---|:---|
 | [Animista](https://animista.net/) | Generate code for CSS animations |
+| [Favicon.ico Generator](https://www.favicon.cc/) | A tool to create or download favicon.ico icons, that get displayed in the address bar of every browser |
 | [Haikei](https://haikei.app/) | Generate unique SVG design assets |
 | [Image Extractor](https://extract.pics/) | Extract images from any public website by using a virtual browser |
 | [Online Gradient Generator](https://angrytools.com/gradient/) | Create gradient code in RGBA, HEX, Canvas, SVG, SwiftUI, etc. and use the generated CSS code |
