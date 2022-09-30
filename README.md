@@ -15,7 +15,7 @@ A list of highly useful FREE websites and online tools to make our work faster, 
   - [Frontend Web Development](#computer-frontend-web-development)
   - [Image Editor](#scissors-image-editor)
   - [Text Generator](#text-generator)
-  - [To-Do List / Project Management](#to-do-list--project-management)
+  - [To-Do List / Note Taking / Project Management](#to-do-list--note-taking--project-management)
   - [Video Editing](#videocamera-video-editing)
   - [Virtual Whiteboard](#virtual-whiteboard)
 
