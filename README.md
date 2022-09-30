@@ -112,11 +112,12 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 |:---|:---|
 | [Free lorem ipsum generator](https://www.freeformatter.com/lorem-ipsum-generator.html) | This free lorem ipsum generator lets you choose how many sentences, paragraphs or list items you want |
 
-## To-Do List / Project Management
+## To-Do List / Note Taking / Project Management
 
 | Name/Link | Description |
 |:---|:---|
 | [Asana](https://asana.com/) | Keep remote and distributed teams, and your entire organization, focused on their goals, projects |
+| [Evernote](https://evernote.com/) | Powerful tool that can help executives, entrepreneurs and creative people capture and arrange their ideas |
 | [Notion](https://www.notion.so/) | Notion is a single space where you can think, write, and plan |
 | [Taskade](https://www.taskade.com/) | Taskade is the ultimate to-do list app for managing tasks, writing notes, and collaborating with others |
 
