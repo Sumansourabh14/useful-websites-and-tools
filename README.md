@@ -8,6 +8,7 @@ A list of highly useful FREE websites and online tools to make our work faster, 
 
 # :link: Table of Contents
 
+  - [Books](#books)
   - [Converters](#converters)
   - [Documents](#pagefacingup-documents)
   - [Design](#design)
@@ -50,6 +51,12 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 ---
 
 # :clipboard: List of Websites and Tools
+
+## Books
+
+| Name/Link | Description |
+|:---|:---|
+| [What Should I Read Next?](https://www.whatshouldireadnext.com/) | Enter a book you like and the site will analyse our huge database of real readers' favorite books to provide book recommendations and suggestions for what to read next |
 
 ## Converters
 
