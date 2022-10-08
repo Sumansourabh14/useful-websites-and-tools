@@ -100,6 +100,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 |:---|:---|
 | [Animista](https://animista.net/) | Generate code for CSS animations |
 | [Cloudinary](https://cloudinary.com/) | Transform images and videos to load faster with no visual degradation, automatically generate image and video variants, and deliver high quality responsive experiences to increase conversions |
+| [Expo](https://expo.dev/) | Expo is an open-source platform for making universal native apps for Android, iOS, and the web with JavaScript and React |
 | [Favicon.ico Generator](https://www.favicon.cc/) | A tool to create or download favicon.ico icons, that get displayed in the address bar of every browser |
 | [Haikei](https://haikei.app/) | Generate unique SVG design assets |
 | [Image Extractor](https://extract.pics/) | Extract images from any public website by using a virtual browser |
