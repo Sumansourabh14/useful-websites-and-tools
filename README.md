@@ -13,7 +13,7 @@ A list of highly useful FREE websites and online tools to make our work faster, 
   - [Documents](#pagefacingup-documents)
   - [Design](#design)
   - [Free Images](#free-images)
-  - [Frontend Web Development](#computer-frontend-web-development)
+  - [Web Development](#computer-web-development)
   - [Image Editor](#scissors-image-editor)
   - [Text Generator](#text-generator)
   - [To-Do List / Note Taking / Project Management](#to-do-list--note-taking--project-management)
@@ -94,7 +94,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 | [Shutterstock](https://www.shutterstock.com/) | Best royalty free images from Shutterstock, including photos, vectors, and illustrations |
 | [Unsplash](https://unsplash.com/) | Beautiful, free images and photos that you can download and use for any project |
 
-## :computer: Frontend Web Development
+## :computer: Web Development
 
 | Name/Link | Description |
 |:---|:---|
@@ -104,6 +104,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 | [Favicon.ico Generator](https://www.favicon.cc/) | A tool to create or download favicon.ico icons, that get displayed in the address bar of every browser |
 | [Haikei](https://haikei.app/) | Generate unique SVG design assets |
 | [Image Extractor](https://extract.pics/) | Extract images from any public website by using a virtual browser |
+| [Lodash](https://lodash.com/) | A modern JavaScript utility library delivering modularity, performance & extras |
 | [Noun Project](https://thenounproject.com/) | Over 5 million Icons and Photos For Everything |
 | [Online Gradient Generator](https://angrytools.com/gradient/) | Create gradient code in RGBA, HEX, Canvas, SVG, SwiftUI, etc. and use the generated CSS code |
 | [Story Set](https://storyset.com/) | Awesome free customizable illustrations for your next project |
