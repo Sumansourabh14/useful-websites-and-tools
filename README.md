@@ -117,6 +117,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 | [Images Platform](https://www.imagesplatform.com/post/online-tool-to-resize-any-image-to-1280-x-720-resolution-rxJmd) | Online Tool To Resize Any Image To 1280 X 720 Resolution |
 | [Remove Image Background](https://www.remove.bg/) | Remove backgrounds 100% automatically in 5 seconds with one click |
 | [TinyPNG](https://tinypng.com/) | Compression techniques to reduce the file size of your WEBP, JPEG and PNG files |
+| [Carousel Hero](https://carouselhero.com/) | Free generator for social media carousels |
 
 ## Text Generator
 
