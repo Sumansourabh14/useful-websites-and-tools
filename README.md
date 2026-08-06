@@ -118,6 +118,7 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 | [Remove Image Background](https://www.remove.bg/) | Remove backgrounds 100% automatically in 5 seconds with one click |
 | [TinyPNG](https://tinypng.com/) | Compression techniques to reduce the file size of your WEBP, JPEG and PNG files |
 | [Carousel Hero](https://carouselhero.com/) | Free generator for social media carousels |
+| [AI Pixel Boost](https://aipixelboost.vercel.app) | Free Image Enhancer  |
 
 ## Text Generator
 
