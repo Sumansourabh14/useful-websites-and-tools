@@ -148,6 +148,12 @@ Username: [@SumanSo77216044](https://twitter.com/SumanSo77216044)
 | [Excalidraw](https://excalidraw.com/) | Virtual whiteboard for sketching hand-drawn like diagrams. Collaborative and end-to-end encrypted |
 | [Web Whiteboard](https://webwhiteboard.com/) | Brainstorm, share ideas, manage projects with instant collaboration |
 
+## Music & Live Venues
+
+| Name/Link | Description |
+|:---|:---|
+| [No Stairs Please](https://nostairsplease.com/) | Independent live music venue directory covering 22,500+ venues across the US and Canada with booking contacts and load-in details |
+
 ---
 
 :arrow_up: **[Back to top](#link-table-of-contents)**
